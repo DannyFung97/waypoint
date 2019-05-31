@@ -1,0 +1,9 @@
+hp = 2000;
+fireRate = 8;
+target = noone;
+projectileSpeed = 210;
+alarm[0] = 5 * fireRate;
+fallSpeed = 70;
+fallLimit = 280;
+range = 3500;
+enemy_is_royal = true;
