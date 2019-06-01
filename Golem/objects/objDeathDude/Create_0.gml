@@ -18,8 +18,8 @@ box = noone;
 o = objBlock;
 enemy_is_royal = noone;
 is_hit = false;
-hb = noone;
-ebh = noone;
+hb = sprDeathDude_Hit;
+ehb = sprGolem_Hit;
 //damage
 dam_arr[0] = 6; // shred
 dam_arr[1] = 5; // impact

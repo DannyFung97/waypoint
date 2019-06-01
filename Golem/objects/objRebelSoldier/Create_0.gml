@@ -4,14 +4,14 @@ moveSpeed = 28;
 attacked = false;
 is_hit = false;
 image_xscale = 1;
-enemy_spawn = noone;
 target = noone;
 hp = 70;
 chance = 0;
 true_damage = 10;
+a = objRebelSoldier;
 o = objBlock;
 e = objRoyalSoldier;
-p = global.RebelTarget;
+p = global.RoyalTarget;
 t = objRoyalTower;
 enemy_is_royal = true;
 check_ally = noone;
@@ -36,3 +36,10 @@ res_arr[7] = 5;
 //stats
 armor = 0;
 inflicted_effect = noone;
+//sprites
+run = sprRebelSoldierRun;
+wait = sprRebelSoldierWait;
+attack = sprRebelSoldierAttack;
+soldier_hitbox_spr = spr_SoldierHit;
+//objects
+enemy_spawn = objRoyalSpawn;

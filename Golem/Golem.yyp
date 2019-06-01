@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "1cb5495b-1b27-4e76-91bf-7e5fe898a7ee",
+            "Value": {
+                "id": "c0ac2b0a-7810-4da2-b81b-be17b02228cb",
+                "resourcePath": "scripts\\SpawnMovement\\SpawnMovement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1e1250ce-5ab2-4bf9-8e2d-100522db958c",
             "Value": {
                 "id": "207f7697-fd1b-41c6-b065-2fdf012260f1",
@@ -124,6 +132,14 @@
                 "id": "da7b850b-d950-4940-9ad5-ce25d67c0bc1",
                 "resourcePath": "sprites\\sprRebelTower\\sprRebelTower.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "27905244-a959-4fdd-aaa5-bdac99f81329",
+            "Value": {
+                "id": "254aea17-d745-4072-93d3-cee801de97ac",
+                "resourcePath": "objects\\obj_Hurtbox\\obj_Hurtbox.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -367,6 +383,14 @@
             }
         },
         {
+            "Key": "91fc8274-12da-4e07-9664-3f880a3ecb91",
+            "Value": {
+                "id": "3b762471-8ebb-4cf5-a03e-08c7d30b4a54",
+                "resourcePath": "scripts\\CollisionCheck\\CollisionCheck.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "920edac9-08de-4e5e-a90e-7f7122d06e24",
             "Value": {
                 "id": "b5f8e063-c42d-4540-8c5f-17993a04ca0e",
@@ -380,6 +404,14 @@
                 "id": "0b53ed74-d17c-4876-a9b4-2317846bbd4a",
                 "resourcePath": "sprites\\sprRebelSpawn\\sprRebelSpawn.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9df6fa11-2e0b-4bfc-b0cb-ac1d98e306e4",
+            "Value": {
+                "id": "effe4fbd-f213-4d4a-8adf-85e28a4a83bc",
+                "resourcePath": "scripts\\TowerProps\\TowerProps.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -412,6 +444,14 @@
                 "id": "b0575107-2683-46eb-a24a-71d93cddab56",
                 "resourcePath": "views\\aea271f5-64c1-4c21-bd8f-a58e5c050308.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "afcb4e7d-10da-427d-8f42-9b4e671a0188",
+            "Value": {
+                "id": "d6929659-c3b7-479d-97fa-66c96f79eeb9",
+                "resourcePath": "scripts\\PlayerBasics\\PlayerBasics.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -471,14 +511,6 @@
             }
         },
         {
-            "Key": "c3074e92-a54a-4bc1-8696-1d4f979d46e3",
-            "Value": {
-                "id": "f6875eaa-aed8-4f1a-b771-6fa549e315a7",
-                "resourcePath": "objects\\obj_hitboxOfRoyal\\obj_hitboxOfRoyal.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "c61d9294-371a-41b5-9f97-233db8551096",
             "Value": {
                 "id": "47386fc0-2b2d-475b-9f21-320170b709f9",
@@ -500,14 +532,6 @@
                 "id": "1461cebd-be7c-4e36-8d7b-d1e993f4319f",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "cc87f62b-d64b-48dd-b030-f320f70b828f",
-            "Value": {
-                "id": "b86517b3-a849-4fd0-ac56-94873c803b37",
-                "resourcePath": "objects\\obj_hitboxOfRebel\\obj_hitboxOfRebel.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -634,7 +658,11 @@
     "script_order": [
         "106ccf06-a41a-47e3-aa32-83a359cbf68a",
         "b106612b-8cd8-4237-b21d-7c8c417ef258",
-        "661a9aa6-b94d-4104-8f67-7b9b9d26a659"
+        "661a9aa6-b94d-4104-8f67-7b9b9d26a659",
+        "1cb5495b-1b27-4e76-91bf-7e5fe898a7ee",
+        "afcb4e7d-10da-427d-8f42-9b4e671a0188",
+        "91fc8274-12da-4e07-9664-3f880a3ecb91",
+        "9df6fa11-2e0b-4bfc-b0cb-ac1d98e306e4"
     ],
     "tutorial": ""
 }

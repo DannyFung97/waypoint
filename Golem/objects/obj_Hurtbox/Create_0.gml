@@ -1,0 +1,9 @@
+true_damage = noone;
+image_xscale = noone;
+sprite_index = noone;
+enemy_is_royal = noone;
+damage_type_number = noone;
+damage_type_amount = noone;
+chance = noone;
+chance_crit_mult = noone;
+chance_effect = noone;

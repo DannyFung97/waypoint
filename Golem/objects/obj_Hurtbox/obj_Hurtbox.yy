@@ -1,28 +1,28 @@
 {
-    "id": "c3074e92-a54a-4bc1-8696-1d4f979d46e3",
+    "id": "27905244-a959-4fdd-aaa5-bdac99f81329",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_hitboxOfRoyal",
+    "name": "obj_Hurtbox",
     "eventList": [
         {
-            "id": "a916d707-903d-422f-8843-c9b5433fbe23",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 77,
-            "eventtype": 8,
-            "m_owner": "c3074e92-a54a-4bc1-8696-1d4f979d46e3"
-        },
-        {
-            "id": "953eac64-c681-4345-ba8d-6ec5d5965d40",
+            "id": "6e7e91db-27a6-4e0b-81c5-2fe06ec02574",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "c3074e92-a54a-4bc1-8696-1d4f979d46e3"
+            "m_owner": "27905244-a959-4fdd-aaa5-bdac99f81329"
+        },
+        {
+            "id": "1c284b83-49bf-4ad7-9d2d-65ff7bd31269",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "27905244-a959-4fdd-aaa5-bdac99f81329"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
