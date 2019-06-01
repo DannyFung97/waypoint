@@ -45,5 +45,4 @@ chance_effect = "shred";
 chance_crit_mult = 2.3;
 inflicted_effect = noone;
 //exclusive values
-this_sprite_index = noone;
 last_vsp = 0;

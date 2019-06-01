@@ -64,3 +64,4 @@ else{
 	}
 
 }
+CollisionCheck()

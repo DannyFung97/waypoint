@@ -70,3 +70,4 @@ else{
 		lastMove = false;
 	}
 }
+CollisionCheck()
